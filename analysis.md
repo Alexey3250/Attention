@@ -14,15 +14,15 @@ These observations indicate that Layer 8, Head 11 may be involved in contextual 
 
 ## Layer 10, Head 2 Analysis
 - "Oh great, another AI that claims it can pass the Turing test, but [MASK] as well as a toaster."
-<img src="https://i.imgur.com/g5CaJ41.png"  width = "500">
-```
+<img src="https://i.imgur.com/g5CaJ41.png"  width = "700">
+```python
 Oh great, another AI that claims it can pass the Turing test, but not as well as a toaster.
 Oh great, another AI that claims it can pass the Turing test, but fails as well as a toaster.
 Oh great, another AI that claims it can pass the Turing test, but only as well as a toaster.
 ```
 
 - "Sure, the AI has 'learned' from its mistakes, now it [MASK] errors with twice the confidence."
-<img src="https://i.imgur.com/xezBmur.png"  width = "500">
+<img src="https://i.imgur.com/xezBmur.png"  width = "700">
 ```
 Sure, the AI has 'learned' from its mistakes, now it makes errors with twice the confidence.
 Sure, the AI has 'learned' from its mistakes, now it corrected errors with twice the confidence.
