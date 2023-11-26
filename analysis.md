@@ -13,18 +13,18 @@ Layer 8, Head 11 seems to be attuned to the context provided by adverbial clause
 These observations indicate that Layer 8, Head 11 may be involved in contextual verb prediction, focusing on how adverbial modifiers relate to the subject's actions within a sentence.
 
 ## Layer 10, Head 2 Analysis
-- "Oh great, another AI that claims it can pass the Turing test, but [MASK] as well as a toaster."
-<img src="https://i.imgur.com/g5CaJ41.png"  width = "700">
-```python
-Oh great, another AI that claims it can pass the Turing test, but not as well as a toaster.
-Oh great, another AI that claims it can pass the Turing test, but fails as well as a toaster.
-Oh great, another AI that claims it can pass the Turing test, but only as well as a toaster.
-```
 
-- "Sure, the AI has 'learned' from its mistakes, now it [MASK] errors with twice the confidence."
+Based on the findings from the attention diagrams, a conclusion can be drawn about the potential understanding BERT has of the word "AI" and it's relations to the qualities attached to this object in the sentence. This would involve summarizing the attention patterns and positing a theory on what BERT's Layer 10, Head 2 might have learned about "AI" in the context.
+
+- "Oh great, another AI that claims it can pass the Turing test, but **[MASK]** as well as a toaster."
+<img src="https://i.imgur.com/g5CaJ41.png"  width = "700">
+    - Oh great, another AI that claims it can pass the Turing test, but **not** as well as a toaster.
+    - Oh great, another AI that claims it can pass the Turing test, but **fails** as well as a toaster.
+    - Oh great, another AI that claims it can pass the Turing test, but **only** as well as a toaster.
+
+
+- "Sure, the AI has 'learned' from its mistakes, now it **[MASK]** errors with twice the confidence."
 <img src="https://i.imgur.com/xezBmur.png"  width = "700">
-```
-Sure, the AI has 'learned' from its mistakes, now it makes errors with twice the confidence.
-Sure, the AI has 'learned' from its mistakes, now it corrected errors with twice the confidence.
-Sure, the AI has 'learned' from its mistakes, now it commits errors with twice the confidence.
-```
+    - Sure, the AI has 'learned' from its mistakes, now it **commits** errors with twice the confidence.
+    - Sure, the AI has 'learned' from its mistakes, now it **makes** errors with twice the confidence.
+    - Sure, the AI has 'learned' from its mistakes, now it **corrected** errors with twice the confidence.
