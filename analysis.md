@@ -10,6 +10,7 @@ For Layer 8, Head 11, the attention diagram displays a particular interest in th
 
 **Example Sentences:**
 - "The cat, despite the noise and distractions, [MASK] gracefully."
+- ![wignerfunction][1](../cat/cat.gif "wigner")
   - ![cat](https://im2.ezgif.com/tmp/ezgif-2-4187aa0eca.gif)
   - <img src="https://im2.ezgif.com/tmp/ezgif-2-4187aa0eca.gif" width= "300">
 - "The dog, even with all the chaos, [MASK] quickly."
