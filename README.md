@@ -1,4 +1,6 @@
-# Attention Visualization with BERT: README
+# Attention Visualization with BERT
+
+<img src="https://i.imgur.com/nWVIN3M.png">
 
 ## Introduction
 
